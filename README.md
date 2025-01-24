@@ -1,4 +1,4 @@
-# week-3  Exploratory Data Analysis (EDA) for Car Insurance Claims Dataset
+# week-6  EDA in bank system Bati Bank
 
 ![Build Status](https://github.com/HabibiGirum/Bati-Bank-Credit-Scoring-Model/actions/workflows/unittests.yml/badge.svg)
 
